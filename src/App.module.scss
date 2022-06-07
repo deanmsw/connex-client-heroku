@@ -1,0 +1,17 @@
+.App {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+}
+.appWrapper {
+  width: 1260px;
+  background-color: aliceblue;
+}
+.appBody {
+  padding-top: 32px;
+  display: inline-flex;
+  width: 100%;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
